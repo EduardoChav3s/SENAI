@@ -1,1 +1,2 @@
-print("Uiuiaiai")
+print ("AUAUAUAUAUAUAUA")
+print ("Me morderam")
