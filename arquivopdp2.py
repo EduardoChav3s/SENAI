@@ -1,1 +1,3 @@
-print("Uiuiaiai")
+print("BLUBLBUELBUEABLUBLBUELBUEL")
+print ("BLABLABLABLABLALBLALALSDLWLASD")
+print ("Scorrororor")
